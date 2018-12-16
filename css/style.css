@@ -93,3 +93,67 @@ body {
 	color: #fff;
 	font-size: 20px;
 }
+.infomail {
+	color: #fff;
+	font-size: 20px;
+}
+.form-wraper {
+	display: flex;
+}
+.form {
+	display: flex;
+	flex-direction: column;
+}
+.form-group {
+	display: flex;
+	flex-direction: column;
+}
+.right-box {
+	margin-left: 56px;
+}
+.input {
+	width: 630px;
+	background: transparent;
+	border: 1px solid #fff;
+	padding: 20px 30px;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+.lable {
+	color: #fff;
+	font-size: 20px;
+	padding-bottom: 15px;
+	margin-left: 25px;
+}
+.form-group:last-child .input{
+	height: 100px;
+}
+.send {
+	background-color: #EE4036;
+	font-size: 18.75px;
+	color: #fff;
+	padding: 15px 40px;
+	width: 130px;
+	text-transform: uppercase;
+}
+.section4 {
+	background-color: #E6E6E6;
+	display: flex;
+	justify-content: center;
+	padding: 35px 0
+}
+.container4 {
+	width: 1170px;
+	display: flex;
+	justify-content: flex-end;
+}
+.footer {
+	display: flex;
+	justify-content: center;
+	padding: 30px 0;
+}
+.fotdiv {
+	width: 1170px;
+	display: flex;
+	justify-content: space-between;
+}
