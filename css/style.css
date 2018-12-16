@@ -96,6 +96,45 @@ body {
 	background-color: #EE4036;
 	padding: 30px 0;
 }
+.d_b {
+	display: inline-block;
+
+}
+.sec1div {
+	margin-left: 90px;
+}
+.p {
+	color: #fff;
+	font-size: 22px;
+	display: inline-block;
+	animation: cont 2s ease-in-out infinite;
+}
+@keyframes cont {
+	0% { transform: scale(1.3); color: #000; }
+	50% { transform: scale(1); color: #fff;} 
+	100% { transform: scale(1.3); color: #000;}
+}
+.p1 {
+	animation-delay: 0.1s;
+}
+.p2 {
+	animation-delay: 0.3s;
+}
+.p3 {
+	animation-delay: 0.5s;
+}
+.p4 {
+	animation-delay: 0.7s;
+}
+.p5 {
+	animation-delay: 0.9s;
+}
+.p6 {
+	animation-delay: 1.1s;
+}
+.p7 {
+	animation-delay: 1.3s;
+}
 .section1title {
 	font-size: 22px;
 	color: #fff;
