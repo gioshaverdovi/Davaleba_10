@@ -76,3 +76,20 @@ body {
 .container iframe {
 	width: 100%;
 }
+.formbg {
+	background-color: #363E97;
+	padding: 40px 0;
+	padding-left: 100px;
+}
+.leftinfo {
+	margin-bottom: 25px;
+}
+.infoad {
+	color: #fff;
+	width: 210px;
+	font-size: 20px;
+}
+.infonum {
+	color: #fff;
+	font-size: 20px;
+}
