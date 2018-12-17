@@ -4,6 +4,7 @@
 	position: fixed;
 	top: 0;
 	left: 0;
+	z-index: 7;
 }
 body {
 	padding-top: 63px;
@@ -97,6 +98,7 @@ body {
 	padding: 30px 0;
 	display: flex;
 	justify-content: center;
+	z-index: 1;
 }
 .sec1div {
 	width: 1170px;
