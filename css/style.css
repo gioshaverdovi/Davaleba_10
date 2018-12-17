@@ -171,8 +171,8 @@ body {
 	transition-duration: 0.3s;
 }
 .leftinfo:hover .infomail {
-	transform: scale(1.3);
 	text-shadow: 2px 2px 8px red;
+	font-size: 21px;
 }
 .form-wraper {
 	display: flex;
